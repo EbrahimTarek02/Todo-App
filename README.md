@@ -18,17 +18,18 @@ New Tasks
 
 <p align = "center">
 <img 
-   width="200"
-   src="https://github.com/EbrahimTarek02/Todo-_App/blob/main/Screenshots/Screenshot_1666965060.png"
-   >
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img 
-   width="200"
-   src="https://github.com/EbrahimTarek02/Todo-_App/blob/main/Screenshots/Screenshot_1666965199.png"
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img 
-   width="200"
-   src="https://github.com/EbrahimTarek02/Todo-_App/blob/main/Screenshots/Screenshot_1666965192.png"
+width="200"
+src="https://github.com/EbrahimTarek02/Todo-_App/blob/main/Screenshots/Screenshot_1666965060.png"
+>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img 
+width="200"
+src="https://github.com/EbrahimTarek02/Todo-_App/blob/main/Screenshots/Screenshot_1666965199.png"
+>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img 
+width="200"
+src="https://github.com/EbrahimTarek02/Todo-_App/blob/main/Screenshots/Screenshot_1666965192.png"
 >
 </p>
 
