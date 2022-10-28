@@ -21,6 +21,10 @@ New Tasks
 width="200"
 src="https://github.com/EbrahimTarek02/Todo-_App/blob/main/Screenshots/Screenshot_1666965060.png"
 >
+<img 
+width="200"
+src="https://github.com/EbrahimTarek02/Todo-_App/blob/main/Screenshots/Screenshot_1666965345.png"
+>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img 
 width="200"
