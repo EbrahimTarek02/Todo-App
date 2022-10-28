@@ -41,6 +41,11 @@ Done Tasks
    width="200"
    src="https://github.com/EbrahimTarek02/Todo-_App/blob/main/Screenshots/Screenshot_1666965074.png"
 >
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img 
+   width="200"
+   src="https://github.com/EbrahimTarek02/Todo-_App/blob/main/Screenshots/Screenshot_1666965279.png"
+>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img 
    width="200"
