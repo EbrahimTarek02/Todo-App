@@ -6,7 +6,7 @@ TODO APP
 Decription
 </h2>
 
-This is a mobile app that allows you to organize your time schedule.
+This is a mobile app that allows you to organize your time schedule, I used Bloc state management and sqlflite in this app .
 
 <h2>
 Screenshots
